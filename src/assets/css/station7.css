@@ -7,15 +7,14 @@ header{
 main{
     background-color:#C4C4C4;
 }
-.card-container{
-    overflow:hidden;
-    background-color:#726666;
-}
 .card{
-    float: left;
+    display:inline-block;
     margin:21px;
     background-color:#fff;
     width: 300px;
+}
+.card-container{
+    background-color:#726666;
 }
 .card__title{
     color:#282828;
