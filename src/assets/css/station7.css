@@ -8,7 +8,7 @@ main{
     background-color:#C4C4C4;
 }
 .card-container{
-    display:flex;
+    overflow:hidden;
     background-color:#726666;
 }
 img{
@@ -18,8 +18,10 @@ img{
 }
 
 .card{
+    float: left;
     margin:21px;
     background-color:#fff;
+    width: 300px;
 }
 .card__title{
     color:#282828;
@@ -27,7 +29,7 @@ img{
 }
 .card__description{
     color:#282828;
-    font-size:12
+    font-size:12px;
 }
 footer{
     clear: both;
