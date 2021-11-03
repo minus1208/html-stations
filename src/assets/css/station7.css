@@ -1,19 +1,20 @@
-header{
-    background-color: #fff;
-    height:14px;
-}
-body{
-    background-color:#c4c4c4:
-}
-main{
-    background-color:#726666;
-}
 .card{
     display:inline-block;
     margin:21px;
     background-color:#fff;
     width: 300px;
 }
+header{
+    background-color: #fff;
+    height:14px;
+}
+body{
+    background-color:#c4c4c4;
+}
+main{
+    background-color:#726666;
+}
+
 .card__title{
     color:#282828;
     font-size:14px;
