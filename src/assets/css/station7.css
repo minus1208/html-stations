@@ -4,17 +4,17 @@ header{
     background-color: #fff;
     height:14px;
 }
+body{
+    background-color: :#c4c4c4:
+}
 main{
-    background-color:#C4C4C4;
+    background-color:#726666;
 }
 .card{
     display:inline-block;
     margin:21px;
     background-color:#fff;
     width: 300px;
-}
-.card-container{
-    background-color:#726666;
 }
 .card__title{
     color:#282828;
