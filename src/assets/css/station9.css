@@ -38,6 +38,15 @@
     }
 
 }
+_:-ms-lang(x)::-ms-backdrop, .card-container {
+    
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap:wrap;
+    background-color:#726666;
+
+}
 
 .card{
     margin:21px;
